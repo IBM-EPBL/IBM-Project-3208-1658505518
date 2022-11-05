@@ -1,0 +1,13 @@
+.cloud-header {
+  text-align: center;
+  font-family: "arial", cursive;
+  color: #e74c3c;
+  font-size: 2em;
+}
+
+
+.col img {
+  height: 300px;
+  width: 300px;
+  padding: 8px;
+}
