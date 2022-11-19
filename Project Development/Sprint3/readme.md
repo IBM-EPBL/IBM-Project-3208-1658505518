@@ -1,5 +1,5 @@
 Sprint 3:
 
-Database Connection and Table Creation in IBM DB2
+Database Connection and Table Creation in IBM DB2 and ChatBot using Watson Assistant
 
 
