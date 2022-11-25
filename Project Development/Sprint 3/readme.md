@@ -1,5 +1,3 @@
-Sprint 3:
+Sprint 3
 
-Database Connection and Table Creation in IBM DB2
-
-
+IBM db2 database connection and Sendgrid Integration

@@ -4,7 +4,7 @@
      <h1>Product Movements</h1>
      <a class="btn btn-success" href="/add_product_movements">Add Product Movements</a>
      <hr>
-     <table class="table table-striped shadow">
+     <table class="table table-striped">
          <thead>
              <tr>
                  
@@ -24,7 +24,7 @@
                  <td>{{movement.QTY}}</td>
                  <!--<td><a href="edit_product_movement/{{movement.MOVEMENT_ID}}" class="btn btn-primary pull-right">Edit</a></td>-->
                  <td>
-                     <form action="{{url_for('delete_product_movements', id=movement.FROM_LOCATION)}}" method="POST">
+                     <form action="{{url_for('delete_productm', id=movement.from_location)}}" method="POST">
                         <input type="hidden" name="method" value="DELETE">
                         <input type="submit" value="Delete" class="btn btn-danger">
                      </form>
