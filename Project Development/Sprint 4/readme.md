@@ -1,3 +1,3 @@
 Sprint 4
 
-Deployment in Docker
+Containerizing in docker and deploying in kubernetes
